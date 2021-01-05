@@ -4,5 +4,5 @@ password: R6e76EEU9v8GznYm
 MongoDB URL
 mongodb+srv://jluis:<password>@cluster0.mvaxx.mongodb.net/test
 
-mongodb+srv://jluis:<R6e76EEU9v8GznYm>@cluster0.mvaxx.mongodb.net/test
-mongodb+srv://jluis:<R6e76EEU9v8GznYm>@cluster0.mvaxx.mongodb.net/cafe
+mongodb+srv://jluis:R6e76EEU9v8GznYm@cluster0.mvaxx.mongodb.net/test
+mongodb+srv://jluis:R6e76EEU9v8GznYm@cluster0.mvaxx.mongodb.net/cafe
